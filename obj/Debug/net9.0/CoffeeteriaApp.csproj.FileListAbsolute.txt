@@ -1,0 +1,14 @@
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\obj\Debug\net9.0\CoffeeteriaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\obj\Debug\net9.0\CoffeeteriaApp.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\obj\Debug\net9.0\CoffeeteriaApp.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\obj\Debug\net9.0\CoffeeteriaApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\bin\Debug\net9.0\CoffeeteriaApp.exe
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\bin\Debug\net9.0\CoffeeteriaApp.deps.json
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\bin\Debug\net9.0\CoffeeteriaApp.runtimeconfig.json
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\bin\Debug\net9.0\CoffeeteriaApp.dll
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\bin\Debug\net9.0\CoffeeteriaApp.pdb
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\obj\Debug\net9.0\CoffeeteriaApp.dll
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\obj\Debug\net9.0\refint\CoffeeteriaApp.dll
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\obj\Debug\net9.0\CoffeeteriaApp.pdb
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\obj\Debug\net9.0\CoffeeteriaApp.genruntimeconfig.cache
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\CoffeeteriaApp\obj\Debug\net9.0\ref\CoffeeteriaApp.dll
