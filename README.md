@@ -14,3 +14,10 @@ Implementar uma solução orientada a objetos que:
 ## Resultado esperado
 
 "O cliente deve poder montar bebidas personalizadas de forma dinâmica, combinando adicionais em tempo de execução, sem explosão no número de classes."
+
+## Estrutura do projeto
+- `IBeverage`: Interface que define o contrato para as bebidas.
+- `Espresso`, `Cappuccino`, `Tea`: Classes concretas que implementam `IBeverage` e representam as bebidas base.
+- `BeverageDecorator`: Classe abstrata que implementa `IBeverage` e serve como base para os decoradores.
+- `Milk`, `WhippedCream`, `Chocolate`: Decoradores concretos que estendem `BeverageDecorator` e adicionam funcionalidades específicas.
+- `Program`: Classe principal para demonstrar a montagem de bebidas personalizadas.
